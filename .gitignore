@@ -1,0 +1,9 @@
+# Power BI temporary files
+*.tmp
+*.bak
+~$*
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
