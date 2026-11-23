@@ -81,18 +81,21 @@ The report covers **31 March to 29 June 2022 (91 days)** and combines headline K
 
 ```
 Amazon-Sales-Performance-Analysis/
+│
 ├── README.md
+│
 ├── PowerBI/
-│   └── Amazon_Sales_Dashboard.pbix
+│   └── Amazon Sales Dashboard.pbix
+│
 ├── Documentation/
+│   ├── Amazon Sales Dashboard — Business Analysis Report.pdf
 │   └── Technical_Dashboard_Review.md
+│
 └── Screenshots/
-    ├── Overview.png
-    ├── Product.png
-    ├── Product-View.png
-    └── Tooltip.png
-```
-
+    ├── 1.OVERVIEW.PNG
+    ├── 2.PRODUCT.PNG
+    ├── 3.PRODUCT_VIEW.PNG
+    └── 4.TOOLTIP.PNG
 ## How to Use
 
 1. Install [Microsoft Power BI
