@@ -98,4 +98,13 @@ Amazon-Sales-Performance-Analysis/
     └── 4.TOOLTIP.PNG
 ## How to Use
 
-1. Install [Microsoft Power BI
+1. Download the `.pbix` file from the `PowerBI` folder.
+2. Install and open Microsoft Power BI Desktop.
+3. Open the downloaded PBIX file.
+4. Use the available slicers and filters to explore sales and product performance.
+5. Navigate between Overview, Product, and Product View pages.
+
+## Documentation
+
+- [Business Analysis Report](Documentation/Amazon%20Sales%20Dashboard%20%E2%80%94%20Business%20Analysis%20Report.pdf)
+- [Technical Dashboard Review](Documentation/Technical_Dashboard_Review.md)
