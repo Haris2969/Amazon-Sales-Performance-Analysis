@@ -2,16 +2,15 @@
 
 An interactive Power BI dashboard that analyses Amazon fashion sales by state, city, order status and product, with a written business report of findings and recommendations.
 
-![Overview](Screenshots/Overview.png)
+![Overview](Screenshots/1.OVERVIEW.PNG)
 
 ## Dashboard Preview
 
 | Product | Product View |
 |---|---|
-| ![Product](Screenshots/Product.png) | ![Product View](Screenshots/Product-View.png) |
+| ![Product](Screenshots/2.PRODUCT.PNG) | ![Product View](Screenshots/3.PRODUCT_VIEW.PNG) |
 
-![Product tooltip](Screenshots/Tooltip.png)
-
+![Product tooltip](Screenshots/4.TOOLTIP.PNG)
 ## Project Overview
 
 The report covers **31 March to 29 June 2022 (91 days)** and combines headline KPIs, geographic analysis, a daily sales trend and a product drill-down. It has four pages:
